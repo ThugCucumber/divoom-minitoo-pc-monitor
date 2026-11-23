@@ -1,0 +1,9 @@
+{
+  "port": "COM3",
+  "sensor_url": "http://localhost:8085/data.json",
+  "interval": 3,
+  "jpeg_quality": 75,
+  "cpu_name": "",
+  "gpu_name": "",
+  "cpu_temperature_sensor": "Core (Tctl/Tdie)"
+}
